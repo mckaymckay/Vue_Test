@@ -1,6 +1,6 @@
 # minhang
 
-# 这里想做一些练习
+## 这里想做一些练习
 
 ## Project setup
 
