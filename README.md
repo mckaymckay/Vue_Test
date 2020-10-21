@@ -1,6 +1,6 @@
 # minhang
 
-## 这里想做一些练习
+## 原数据仓库的项目
 
 ## Project setup
 
